@@ -177,8 +177,8 @@ pry(main)> building.add_unit(unit4)
 pry(main)> building.units_by_number_of_bedrooms
 # =>
 # {
-#   3 => ["D4" ],
 #   2 => ["B2", "C3"],
+#   3 => ["D4" ],
 #   1 => ["A1"]
 # }
 ```
